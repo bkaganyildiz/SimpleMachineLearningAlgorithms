@@ -12,7 +12,7 @@ Implementation of Analytical Linear Regression Implementation : TODO : find the 
 Implementation of Iterative Linear Regression Implementation : TODO : find the weight matrix and RMS without using any matrix libraries and Linear Regression Methodology.
 
 ```
-𝑤𝑗=𝑤𝑗−𝜇𝜕𝐸(Ɗ)𝜕𝑤𝑗
+𝑤𝑗=𝑤𝑗−𝜇𝜕𝐸(Ɗ)/𝜕𝑤𝑗
 ```
 ## Part3 
 

@@ -1,0 +1,18 @@
+In order to run the program you need to install requirements that specified at requirements.txt file 
+
+it’s shortcut to install python libraries and can be easily installed using 
+
+ —— pip install -r requirements.txt
+
+If you don’t have pip installed at your pc you can easily install it using documentation in the link below.
+
+https://pip.pypa.io/en/stable/installing/
+
+If you don’t know if pip is installed at your computer you can check it by using the bash below : 
+
+ —— pip list
+
+AnalyticalSolver can be run using invocation that specified in the specification pdf. 
+
+ —— python AnalyticalSolver.py <filename>
+

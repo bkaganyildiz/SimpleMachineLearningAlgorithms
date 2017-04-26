@@ -1,0 +1,5 @@
+In order  to run IterativeSolver.py file you don’t need to install any library it only use csv for reading csv file , sys in order to get argv and math(sqrt) in order to get square root for rms. No matrix library has been used.In order to make it more understandable functions that had been coded has brief comments that gives information about argvs and information about the purpose of it .
+
+In order to run script one can used invocation that specified .
+
+ ——— python IterativeSolver.py <filename> <mu> <continuation condition>  
